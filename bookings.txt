@@ -1,0 +1,12 @@
+========================================
+          RAILWAY BOOKING
+========================================
+PNR           : 882619
+Passenger     : Ruchitha
+Age           : 21
+Train Number  : 12723
+Journey Date  : 16/10/2026
+Seats         : 3
+Travel Class  : Sleeper
+========================================
+
